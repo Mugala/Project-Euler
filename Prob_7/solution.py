@@ -8,10 +8,10 @@ def is_prime(n):
 
 print(is_prime(5))
 
-def the_range():
-    list_a = []
-    for 
-    if n in 
+# def the_range():
+#     list_a = []
+#     for 
+#     if n in 
 
 
 
